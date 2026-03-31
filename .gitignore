@@ -1,0 +1,17 @@
+# Build output
+Debug/
+Release/
+build/
+
+# IDE files
+.settings/
+.cproject
+.project
+*.launch
+
+# CubeIDE generated (keep these if you want others to regenerate)
+*.elf
+*.bin
+*.hex
+*.map
+*.list
