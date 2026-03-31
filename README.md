@@ -29,7 +29,7 @@
 - [ ] on/off switch
       
 ## Demo
-![Demo](https://drive.google.com/file/d/1-NJwXk1A0xX-s-IomeAtq8f6QgWAQJfK/view?usp=sharing)
-![Demo](https://drive.google.com/file/d/1a6IXdjxgUnQYEPFMO_-LWl-TF886DTvh/view?usp=sharing)
+[Watch Demo Video](https://drive.google.com/file/d/1-NJwXk1A0xX-s-IomeAtq8f6QgWAQJfK/view?usp=sharing)
+[Watch Demo Video](https://drive.google.com/file/d/1a6IXdjxgUnQYEPFMO_-LWl-TF886DTvh/view?usp=sharing)
 
 
