@@ -1,9 +1,9 @@
 # [LiDAR Range Finder] — STM32
 
 ## Overview
-– A real-time LiDAR distance measurement system using Nucleo-L476RG (UART @115200 baud)
-– Parsed and validated serial data frames from TFMini-S sensor w/ edge case handling
-– Integrated OLED display driver for live distance visualization (100 Hz refresh rate
+– **A real-time LiDAR distance measurement system using Nucleo-L476RG (UART @115200 baud)
+– **Parsed and validated serial data frames from TFMini-S sensor w/ edge case handling
+– **Integrated OLED display driver for live distance visualization (100 Hz refresh rate
 
 ## Hardware
 - **Board:** STM32[X] Nucleo / Discovery / custom
