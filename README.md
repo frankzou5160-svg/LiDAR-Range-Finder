@@ -29,7 +29,8 @@
 - [ ] on/off switch
       
 ## Demo
-[Watch Demo Video](https://drive.google.com/file/d/1-NJwXk1A0xX-s-IomeAtq8f6QgWAQJfK/view?usp=sharing)
-[Watch Demo Video](https://drive.google.com/file/d/1a6IXdjxgUnQYEPFMO_-LWl-TF886DTvh/view?usp=sharing)
+[Test 1](https://drive.google.com/file/d/1-NJwXk1A0xX-s-IomeAtq8f6QgWAQJfK/view?usp=sharing)<br>
+
+[Test 1 Different Angle](https://drive.google.com/file/d/1a6IXdjxgUnQYEPFMO_-LWl-TF886DTvh/view?usp=sharing)
 
 
