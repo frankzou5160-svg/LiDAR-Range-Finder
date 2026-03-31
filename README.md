@@ -1,14 +1,14 @@
 # [LiDAR Range Finder] — STM32
 
 ## Overview
-– **A real-time LiDAR distance measurement system using Nucleo-L476RG (UART @115200 baud)
-– **Parsed and validated serial data frames from TFMini-S sensor w/ edge case handling
-– **Integrated OLED display driver for live distance visualization (100 Hz refresh rate
+- A real-time LiDAR distance measurement system using Nucleo-L476RG (UART @115200 baud)
+- Parsed and validated serial data frames from TFMini-S sensor w/ edge case handling
+- Integrated OLED display driver for live distance visualization (100 Hz refresh rate
 
 ## Hardware
-- **Board:** STM32[X] Nucleo / Discovery / custom
-- **Peripherals:** [e.g. UART, SPI, I2C, GPIO, ADC]
-- **External components:** [e.g. sensors, displays, motors]
+- **Board:** STM32 Nucleo-L476RG
+- **Peripherals:** UART, I2C, GPIO
+- **External components:** 0.96 OLED display, TF Mini-s LiDAR 
 
 ## Tools
 - **IDE:** STM32CubeIDE
@@ -20,11 +20,16 @@
 2. Open STM32CubeIDE → Import → Existing project
 3. Build and flash to board
 
-## Wiring
-![Wiring Diagram](docs/wiring.png)
-
+## Future Improvements
+- [ ] better hardwhere for better range
+- [ ] solder onto stripboard
+- [ ] housiing + enclosure + waterproofing
+- [ ] battery + power management
+- [ ] button to hold measuurement
+- [ ] on/off switch
+      
 ## Demo
-![Demo](docs/demo.png)
+![Demo](https://drive.google.com/file/d/1-NJwXk1A0xX-s-IomeAtq8f6QgWAQJfK/view?usp=sharing)
+![Demo](https://drive.google.com/file/d/1a6IXdjxgUnQYEPFMO_-LWl-TF886DTvh/view?usp=sharing)
 
-## Course Info
-Built as part of [Course Name] at [Your School] — [Semester]
+
