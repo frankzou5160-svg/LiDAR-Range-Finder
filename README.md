@@ -20,11 +20,6 @@
 2. Open STM32CubeIDE → Import → Existing project
 3. Build and flash to board
 
-## Future Implementation (LiDAR Scanner) 
-- [ ] add step motor
-- [ ] housing
-- [ ] python script for real time plotting
-      
 ## Demo
 [Test 1](https://drive.google.com/file/d/1-NJwXk1A0xX-s-IomeAtq8f6QgWAQJfK/view?usp=sharing)<br>
 
